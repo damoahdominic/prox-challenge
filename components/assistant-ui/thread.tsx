@@ -197,7 +197,7 @@ const ThreadWelcome: FC = () => {
         for you.
       </p>
       <div className="fade-in slide-in-from-bottom-1 animate-in mt-5 flex items-center gap-2 fill-mode-both duration-200">
-        <span className="text-muted-foreground text-xs tracking-wide uppercase">
+        <span className="text-muted-foreground text-xs">
           Powered by
         </span>
         <ProxWordmark height={14} />

@@ -46,7 +46,7 @@ export function ThreadListSidebar({
         <SidebarMenu>
           <SidebarMenuItem>
             <div className="flex items-center gap-2 px-2 py-1.5">
-              <span className="text-muted-foreground text-xs tracking-wide uppercase">
+              <span className="text-muted-foreground text-xs">
                 Powered by
               </span>
               <ProxWordmark height={12} />

@@ -42,7 +42,7 @@ export function Preloader() {
         <ProxMark className="size-20" />
       </div>
       <div
-        className="preloader-caption text-muted-foreground text-sm font-medium tracking-[0.2em] uppercase"
+        className="preloader-caption text-muted-foreground text-sm font-medium tracking-wide"
         style={{ animationDelay: "450ms" }}
       >
         Vulcan Product Expert
